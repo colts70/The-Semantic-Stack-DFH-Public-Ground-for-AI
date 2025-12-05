@@ -1,4 +1,5 @@
 # The-Semantic-Stack-DFH-Public-Ground-for-AI
+This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 The-Semantic-Web-Stack-Deterministic-First-Hop-DFH-Public-Ground-For-AI Introduction.
 This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 The Semantic Stack & DFH — Public Ground for AI
