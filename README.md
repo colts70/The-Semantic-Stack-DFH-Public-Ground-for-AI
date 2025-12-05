@@ -1,5 +1,13 @@
 # The-Semantic-Stack-DFH-Public-Ground-for-AI
 This is the modern implementation of Berners-Lee’s original Semantic Web map.”
+
+The Transport Layer (TCP/IP) → moves packets
+
+The Hyperlink Layer (HTTP/HTML) → shows documents
+
+The Meaning Layer (DFH/Stack) → tells AI what those documents mean
+
+
 The-Semantic-Web-Stack-Deterministic-First-Hop-DFH-Public-Ground-For-AI Introduction.
 This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 The Semantic Stack & DFH — Public Ground for AI
